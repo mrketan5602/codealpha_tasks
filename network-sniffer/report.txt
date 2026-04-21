@@ -1,0 +1,16 @@
+=== IDS REPORT ===
+
+Total Packets: 15
+
+Top IPs:
+20.189.173.9 -> 5
+192.168.31.207 -> 8
+34.117.59.81 -> 2
+
+Alerts:
+[INFO] External IP 20.189.173.9 (AS8075 Microsoft Corporation)
+[INFO] External IP 34.117.59.81 (AS396982 Google LLC)
+[INFO] External IP 20.189.173.9 (AS8075 Microsoft Corporation)
+[INFO] External IP 20.189.173.9 (AS8075 Microsoft Corporation)
+[INFO] External IP 20.189.173.9 (AS8075 Microsoft Corporation)
+[INFO] External IP 20.189.173.9 (AS8075 Microsoft Corporation)
